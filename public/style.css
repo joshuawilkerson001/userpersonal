@@ -1,0 +1,25 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+}
+body{
+  background-image: url(img/solarsystem.gif);
+  background-size: cover;
+}
+.jumbotron{
+  color: inherit;
+  opacity: 0.6;
+}
+.page-header,
+.well{
+  color: black;
+}
+.col-sm-6, h3{
+  color: white;
+}
+.col-sm-6{
+      margin-top: 146px;
+}
